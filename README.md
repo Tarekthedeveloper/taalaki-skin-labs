@@ -3,7 +3,7 @@
 A premium, highly responsive dark-themed luxury skincare and cosmetics e-commerce web application engineered using modern React architecture and optimized styling frameworks.
 
 ## 🚀 Deployment & Links
-* **Production Live URL:** [Insert Your *.pages.dev Link Here]
+* **Production Live URL:** https://taalaki-skin-labs.pages.dev/
 * **Edge Hosting Infrastructure:** Cloudflare Pages Network (Global CDN Optimization)
 
 ## 🛠️ Tech Stack & Architecture
