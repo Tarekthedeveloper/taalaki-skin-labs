@@ -15,3 +15,9 @@ A premium, highly responsive dark-themed luxury skincare and cosmetics e-commerc
 1. Clone the repository: `git clone https://github.com/tarekthedeveloper/taalaki-skin-labs.git`
 2. Install code modules: `npm i`
 3. Launch local developer server: `npm start`
+
+<h2 align="center">📸 Application Preview</h2>
+
+<p align="center">
+  <img src="info.png" width="900">
+</p>
